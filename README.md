@@ -1,2 +1,0 @@
-# stickylist
-Created with CodeSandbox
